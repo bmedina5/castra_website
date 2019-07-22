@@ -1288,10 +1288,10 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
+			width: 20rem;
+			height: 8rem;
 			line-height: 5.5rem;
-			border: solid 1px #ffffff;
+			border: solid 1px #;
 			border-radius: 100%;
 		}
 
