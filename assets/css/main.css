@@ -702,6 +702,8 @@ input, select, textarea {
 
 			.image.main img {
 				width: 100%;
+				position: absolute;
+				background-color: transparent;
 			}
 
 		@media screen and (max-width: 736px) {
